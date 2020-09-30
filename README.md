@@ -1,3 +1,7 @@
+# HeatMap to show the case count in each country.
+
+Hover over the country in the world map to see the number of cases in it.
+
 # 🍃 Gatsby Leaflet Starter
 
 Jumpstart your next Gatsby mapping project with Leaflet!
